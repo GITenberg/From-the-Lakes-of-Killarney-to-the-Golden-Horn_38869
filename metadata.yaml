@@ -1,0 +1,30 @@
+_repo: From-the-Lakes-of-Killarney-to-the-Golden-Horn_38869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Field, Henry M. (Henry Martyn)
+    alias: Field, Henry Martyn
+    birthdate: 1822
+    deathdate: 1907
+    gutenberg_agent_id: '37206'
+    url: http://www.gutenberg.org/2009/agents/37206
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Martyn_Field_%28minister%29
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'G'
+title: From the Lakes of Killarney to the Golden Horn
+url: http://www.gutenberg.org/ebooks/38869
